@@ -1,0 +1,15 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1e3731f..19d5c28 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -10,5 +10,9 @@[m
+     <header>[m
+         PROBANDO GITHUB[m
+     </header>[m
+[32m+[m
+[32m+[m[32m    <div>[m
+[32m+[m[32m        Segundo cambio[m
+[32m+[m[32m    </div>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
